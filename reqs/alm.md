@@ -1,7 +1,7 @@
 ---
 itemId: req-managing-items
 itemType: Requirement
-itemHasParent: KP-123
+itemHasParent: WGT-2
 ---
 
 # Managing items in Ketryx

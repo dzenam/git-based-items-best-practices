@@ -1,7 +1,7 @@
 ---
 itemId: sw-cucumber-parser
 itemType: Software Item Spec
-itemFulfills: req-cucumber-files
+itemHasParent: WGT-4
 ---
 
 # Cucumber parser

@@ -1,7 +1,7 @@
 ---
 itemId: sw-sync-with-jira
 itemType: Software Item Spec
-itemFulfills: req-managing-items
+itemFulfills: WGT-3
 ---
 
 # Sync with Jira module
