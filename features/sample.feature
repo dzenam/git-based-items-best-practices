@@ -13,4 +13,5 @@ Feature: Sample app
   @implements:GBI-3
   Scenario: Implementing existing TC2 from Jira
     Given User is on landing page
+    And User is on landing page
     Then Page has title "React App"
