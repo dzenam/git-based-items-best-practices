@@ -22,6 +22,7 @@ function getNamedCapture(captures: any[], name: string) {
  * Additional details. @itemHasParent:"ABC-456, sw-cucumber-parser" @itemAffects:req-cucumber-files
  *
  * @itemFullfills:"req-cucumber-files"
+ * @itemId:TS2
  *
  * @param captures The captures to extract named captures from.
  * @param name The name of the named capture to extract.

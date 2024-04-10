@@ -6,7 +6,7 @@ Feature: Git-based Items
     And User is on the Git-based Items page
     Then User should see the Git-based Items page
 
-  @tests:req-managing-items
+  @tests:req-managing-items @tests:TS1
   Scenario: Do not see Git-based Items page
     Given User is on landing page
     And User is on the Git-based Items page
