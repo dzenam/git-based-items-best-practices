@@ -4,6 +4,7 @@
  *
  * @itemId:TS1
  * @itemFulfills:"req-managing-items, req-cucumber-files"
+ * @itemTitle:"Get named capture (getNamedCapture)"
  *
  * @param captures The captures to extract named captures from.
  * @param name The name of the named capture to extract.
