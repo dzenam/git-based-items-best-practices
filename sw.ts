@@ -1,6 +1,6 @@
 /**
  * Some description. And some more details. @itemImplements:req-cucumber-files
- * Additional details. @itemHasParent:"sw-sync-with-jira" @itemAffects:sw-cucumber-parser
+ * Additional details here. @itemHasParent:"sw-sync-with-jira" @itemAffects:sw-cucumber-parser
  *
  * @itemId:TS1
  * @itemFulfills:"req-managing-items, req-cucumber-files"
