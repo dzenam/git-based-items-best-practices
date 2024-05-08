@@ -2,6 +2,7 @@
 itemId: req-managing-items
 itemType: Requirement
 itemHasParent: WGT-2
+requirementType: Use case
 ---
 
 # Managing items in Ketryx
