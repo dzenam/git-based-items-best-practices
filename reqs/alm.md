@@ -24,6 +24,12 @@ Ketryx shall support the following transition flows:
 * One
 * Two
 
+### Acceptance Criteria
+
+Criteria for acceptance of this requirement are:
+
+* One
+
 ## Something else
 
 After the transition flow is completed, the item shall be locked for editing and the latest state shall be synced back to Jira.
