@@ -1,5 +1,5 @@
 ---
-itemId: sw-sync-with-jira
+itemId: sw-sync-with-jira1
 itemType: Software Item Spec
 itemFulfills: WGT-3
 ---
