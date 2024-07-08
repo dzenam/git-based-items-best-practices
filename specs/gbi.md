@@ -1,5 +1,5 @@
 ---
-itemId: sw-cucumber-parser1
+itemId: sw-cucumber-parser
 itemType: Software Item Spec
 itemHasParent: WGT-4
 ---

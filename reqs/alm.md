@@ -1,5 +1,5 @@
 ---
-itemId: req-managing-items-1
+itemId: req-managing-items
 itemType: Requirement
 itemHasParent: WGT-2
 ---
